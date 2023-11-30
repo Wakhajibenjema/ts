@@ -1,0 +1,272 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="BeIN Sports 1 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qharfdgQmihOs33lgiYT1j_-ZFmnFi9AC2hhRUoJV2COpg.png" group-title="BEIN SPORTS HD",BeIN Sports 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqy6VRX9SCVn6_-xPyGdjifA/ts
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="BeIN Sports 2 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaHCLUgwcsaunseh9C0Q88bxshO9Nj3ZsoaUUYyLLUAdE.png" group-title="BEIN SPORTS HD",BeIN Sports 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9ur1ZsUstvF3NwRuFJBkco/ts
+#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="BeIN Sports 3 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaNWifbqsW3Kt6-hE7cWP3K4hDlRb_yLTBGew5mAExYqA.png" group-title="BEIN SPORTS HD",BeIN Sports 3 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq15m6dNIkup7EArRh1j6kzg/ts
+#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="BeIN Sports 4 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaXQ-o4dwo4lqp-MpL0Rc4Gq0r9jL9AGv93UpcdgoFnMs.png" group-title="BEIN SPORTS HD",BeIN Sports 4 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6_Vf2t62rzJlmiB6pCXa5g/ts
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="BeIN Sports 5 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhauwN9zq-goTZTpc3I0KSGk3if3f9JjQ71e5HAqTyjfPg.png" group-title="BEIN SPORTS HD",BeIN Sports 5 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1RA2TBo7dFjYMSqxseMNgs/ts
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="BeIN Sports 6 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaJEmdzIaszTgoCcaq4rDUTHPzoU76XfrtJTJ2VWoO6z0.png" group-title="BEIN SPORTS HD",BeIN Sports 6 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwE1DVWhNIhc6wxdSrC1rz0/ts
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="BeIN Sports 7 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaIbj1K_BtE4keqRHMJmmI6ZQV8uYdccKybXt-BgxKRtk.png" group-title="BEIN SPORTS HD",BeIN Sports 7 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3tkRzs9C_wCUupGUFFS8mE/ts
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="BeIN Sports 1 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qharfdgQmihOs33lgiYT1j_-ZFmnFi9AC2hhRUoJV2COpg.png" group-title="BEIN SPORTS SD",BeIN Sports 1 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5ZF82_BXYHPrKLsgf9jZOw/ts
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="BeIN Sports 2 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaHCLUgwcsaunseh9C0Q88bxshO9Nj3ZsoaUUYyLLUAdE.png" group-title="BEIN SPORTS SD",BeIN Sports 2 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqysVquiiBW9jriUMBklRVdE/ts
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="BeIN Sports 3 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaNWifbqsW3Kt6-hE7cWP3K4hDlRb_yLTBGew5mAExYqA.png" group-title="BEIN SPORTS SD",BeIN Sports 3 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9Ekv6ABVjHH9IKYAMKoSxc/ts
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="BeIN Sports 4 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaXQ-o4dwo4lqp-MpL0Rc4Gq0r9jL9AGv93UpcdgoFnMs.png" group-title="BEIN SPORTS SD",BeIN Sports 4 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4bYvUAwYvofZ9ZrGLl1NiU/ts
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="BeIN Sports 5 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhauwN9zq-goTZTpc3I0KSGk3if3f9JjQ71e5HAqTyjfPg.png" group-title="BEIN SPORTS SD",BeIN Sports 5 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4i9gDTdVud_G92hWfnWb5w/ts
+#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="BeIN Sports 6 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaJEmdzIaszTgoCcaq4rDUTHPzoU76XfrtJTJ2VWoO6z0.png" group-title="BEIN SPORTS SD",BeIN Sports 6 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-H6EtQgjNRW8jzLATUfLpY/ts
+#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="BeIN Sports 7 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaIbj1K_BtE4keqRHMJmmI6ZQV8uYdccKybXt-BgxKRtk.png" group-title="BEIN SPORTS SD",BeIN Sports 7 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwbyZD9dYJ-yKoxMK7S2o0E/ts
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="BeIN Sports 1 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qharfdgQmihOs33lgiYT1j_-ZFmnFi9AC2hhRUoJV2COpg.png" group-title="BEIN SPORTS 4K",BeIN Sports 1 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1ZN14ncTuqcnblhcLJJGTM/ts
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="BeIN Sports 2 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaHCLUgwcsaunseh9C0Q88bxshO9Nj3ZsoaUUYyLLUAdE.png" group-title="BEIN SPORTS 4K",BeIN Sports 2 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5dDW_BviH4EWz2ZUpWwnDY/ts
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="BeIN Sports 3 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaNWifbqsW3Kt6-hE7cWP3K4hDlRb_yLTBGew5mAExYqA.png" group-title="BEIN SPORTS 4K",BeIN Sports 3 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-RIq8_dPBUXXpBfd2MgnxI/ts
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="BeIN Sports 4 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaXQ-o4dwo4lqp-MpL0Rc4Gq0r9jL9AGv93UpcdgoFnMs.png" group-title="BEIN SPORTS 4K",BeIN Sports 4 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3OtdHkwt-m54sClmVuxCNk/ts
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="BeIN Sports 5 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhauwN9zq-goTZTpc3I0KSGk3if3f9JjQ71e5HAqTyjfPg.png" group-title="BEIN SPORTS 4K",BeIN Sports 5 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0XVZyWWXXqAApg0qDEoxKs/ts
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="BeIN Sports 6 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaJEmdzIaszTgoCcaq4rDUTHPzoU76XfrtJTJ2VWoO6z0.png" group-title="BEIN SPORTS 4K",BeIN Sports 6 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1ICCqnW8vLspctUP06xO_8/ts
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="BeIN Sports 7 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaIbj1K_BtE4keqRHMJmmI6ZQV8uYdccKybXt-BgxKRtk.png" group-title="BEIN SPORTS 4K",BeIN Sports 7 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_1DxvvTTQ2ErgUcUCqoZcc/ts
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="BeIN Sports 1 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qharfdgQmihOs33lgiYT1j_-ZFmnFi9AC2hhRUoJV2COpg.png" group-title="BEIN SPORTS FHD",BeIN Sports 1 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5hmTFs3-o6QotnDaZurxeE/ts
+#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="BeIN Sports 2 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaHCLUgwcsaunseh9C0Q88bxshO9Nj3ZsoaUUYyLLUAdE.png" group-title="BEIN SPORTS FHD",BeIN Sports 2 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqz-JRNmk7bJmKeh_RmeZjCA/ts
+#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="BeIN Sports 3 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaNWifbqsW3Kt6-hE7cWP3K4hDlRb_yLTBGew5mAExYqA.png" group-title="BEIN SPORTS FHD",BeIN Sports 3 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-7Fhr5vIa70Hfq1lvlIukg/ts
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="BeIN Sports 4 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaXQ-o4dwo4lqp-MpL0Rc4Gq0r9jL9AGv93UpcdgoFnMs.png" group-title="BEIN SPORTS FHD",BeIN Sports 4 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8YMFUjAx00FB7nRhuRRKq0/ts
+#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="BeIN Sports 5 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhauwN9zq-goTZTpc3I0KSGk3if3f9JjQ71e5HAqTyjfPg.png" group-title="BEIN SPORTS FHD",BeIN Sports 5 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0uXwnVRKcmufhTI_mF1gZw/ts
+#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="BeIN Sports 6 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaJEmdzIaszTgoCcaq4rDUTHPzoU76XfrtJTJ2VWoO6z0.png" group-title="BEIN SPORTS FHD",BeIN Sports 6 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_HbLlW2zoNEqekrLSfqKeI/ts
+#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="BeIN Sports 7 FHD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaIbj1K_BtE4keqRHMJmmI6ZQV8uYdccKybXt-BgxKRtk.png" group-title="BEIN SPORTS FHD",BeIN Sports 7 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6AmwTGFaNT4bQslB9GP-jM/ts
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="BeIN Sports AFC Global 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQH_Rz74mHwDsS_f4LjbVbkg.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC Global 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3nCmNLqFfqNx1y4G7Y0cY4/ts
+#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="BeIN Sports AFC 1 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQLlsG-kCR-M7YG7rOMkP69w.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 1 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6cyZjM7Zi4Mv_qctfSo_IY/ts
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="BeIN Sports AFC 2 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQupRINZEEuSJnSYPsivTrFQ.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 2 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwD370tyfHiBIJVNzokJCIM/ts
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="BeIN Sports AFC 3 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQj7ywLZPhCA6USHSJv5vQHQ.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 3 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-4SNYLqZfyjxFe93ZUi1gA/ts
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="BeIN Sports AFC 4 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp247HS43NgY4S04m8rV59RFDqsktrbt1RO5lI3FoEgFkw.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 4 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzeh6Xxs-bu_xgxQa8wmupA/ts
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="BeIN Sports AFC 5 4K" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp247HS43NgY4S04m8rV59RFdno1VYUMAz2bMZR3zTdD_Q.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 5 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0d9MN6xeC4BUEDa6oS_sY8/ts
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="BeIN Sports AFC Global HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQH_Rz74mHwDsS_f4LjbVbkg.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC Global HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_Dn1-MG0LnqoW2_D_PPtPg/ts
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="BeIN Sports AFC 1 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQLlsG-kCR-M7YG7rOMkP69w.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9_BcIIVNufQy8yC4Ujdbnc/ts
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="BeIN Sports AFC 2 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQupRINZEEuSJnSYPsivTrFQ.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqxJA_GNoILVLTbXmmCR38tA/ts
+#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="BeIN Sports AFC 3 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQj7ywLZPhCA6USHSJv5vQHQ.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 3 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq4LS8bUtYKwHLaOgVxq9a2A/ts
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="BeIN Sports AFC 4 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp247HS43NgY4S04m8rV59RFDqsktrbt1RO5lI3FoEgFkw.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 4 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1Fzu1MnVnkKCkDWizx9tQU/ts
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="BeIN Sports AFC 5 HD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp247HS43NgY4S04m8rV59RFdno1VYUMAz2bMZR3zTdD_Q.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 5 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqw_kegv94yi0U4PrNTeiBY0/ts
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="BeIN Sports AFC Global SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQH_Rz74mHwDsS_f4LjbVbkg.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC Global SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-ap5RgBNs6mJaFUrDSfkhw/ts
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="BeIN Sports AFC 1 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQLlsG-kCR-M7YG7rOMkP69w.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 1 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0GLKBsbUUOR70ZLXFhzKBM/ts
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="BeIN Sports AFC 2 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQupRINZEEuSJnSYPsivTrFQ.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 2 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1cXFuRvBg0qYrb0YAhzq7c/ts
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="BeIN Sports AFC 3 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp06jHHDvFhapVcWIj9eWXhQj7ywLZPhCA6USHSJv5vQHQ.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 3 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_6Z4cxjCPJiLEJWVJgKUFo/ts
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="BeIN Sports AFC 4 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp247HS43NgY4S04m8rV59RFDqsktrbt1RO5lI3FoEgFkw.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 4 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq663OjQZVjo_KIU_GvzWCpg/ts
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="BeIN Sports AFC 5 SD" tvg-logo="http://tvofpalestine.live:80/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp247HS43NgY4S04m8rV59RFdno1VYUMAz2bMZR3zTdD_Q.png" group-title="BEIN SPORTS AFC",BeIN Sports AFC 5 SD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyAkWXrePuRuIu3D6frAVa0/ts
+#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="SAUDI LEAGE 4K" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SAUDI LEAGE 4K
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1aSbIiymiTFRo8MjzDRPdw/ts
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 1 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqyOWG43ChrYxYDMLpLSEa5Q/ts
+#EXTINF:-1 xui-id="49" tvg-id="" tvg-name="SSC 2 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 2 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts
+#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="SSC 3 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 3 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq74V_BdTlgM9uUY3VmgJ5Ec/ts
+#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="SSC 4 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 4 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-CbWNKi4VmEILoM7L21t3k/ts
+#EXTINF:-1 xui-id="52" tvg-id="" tvg-name="SSC 5 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 5 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq1Xm_r1_J2WgXXZUvWgfmwM/ts
+#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="SSC EXTRA 1 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC EXTRA 1 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2ASQkSqc6J73hBIbgwGkDg/ts
+#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="SSC EXTRA 2 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC EXTRA 2 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5houQkgWJFCKYgA4JqwL2E/ts
+#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="SSC EXTRA 3 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC EXTRA 3 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzLTab1EZUcvREyYMYZpaTQ/ts
+#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="SSC 1 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq8bKQWyQnItHPUj6Tz_wXAo/ts
+#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="SSC 2 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6cZ4dq8N1LPau7Y0Ehwp8c/ts
+#EXTINF:-1 xui-id="58" tvg-id="" tvg-name="SSC 3 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 3 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwtlQJzn-vdwOF5c_IK7KnQ/ts
+#EXTINF:-1 xui-id="59" tvg-id="" tvg-name="SSC 4 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 4 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqzIirWU8dzEMFZtoYbUZnCc/ts
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="SSC 5 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC 5 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7fLqf0FAeOJk56iBSCqRrA/ts
+#EXTINF:-1 xui-id="61" tvg-id="" tvg-name="SSC EXTRA 1 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC EXTRA 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5rOjmMujOleuTrkMkOl9ww/ts
+#EXTINF:-1 xui-id="62" tvg-id="" tvg-name="SSC EXTRA 2 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC EXTRA 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_MAV-twuInSu2-pkVTY_EE/ts
+#EXTINF:-1 xui-id="63" tvg-id="" tvg-name="SSC EXTRA 3 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4duzAFe84PrBwhUycD1fht-AdiL14araAv7xN7MHu8yn.jpg" group-title="SSC",SSC EXTRA 3 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9Er4FP-nwtyLtiv37MU5iA/ts
+#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="AD SPORTS PREMIUM 1 FHD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS PREMIUM",AD SPORTS PREMIUM 1 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqz8Ts5AjcOT8OXwWpTcUfzs/ts
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="AD SPORTS PREMIUM 2 FHD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS PREMIUM",AD SPORTS PREMIUM 2 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq6RD3s4q0ydDfTyxorV-Oqs/ts
+#EXTINF:-1 xui-id="76" tvg-id="" tvg-name="AD SPORTS PREMIUM 1 HD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS PREMIUM",AD SPORTS PREMIUM 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_3dD1iYnvxm0YYM04gKU5A/ts
+#EXTINF:-1 xui-id="77" tvg-id="" tvg-name="AD SPORTS PREMIUM 2 HD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS PREMIUM",AD SPORTS PREMIUM 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_x3LH-ukuxfuZTPhDwWUgY/ts
+#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="AD SPORTS ASIA 1 FHD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS ASIA",AD SPORTS ASIA 1 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq5lDv8J--g8n2g4SBMGgAbY/ts
+#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="AD SPORTS ASIA 2 FHD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS ASIA",AD SPORTS ASIA 2 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqw9ttyKd1pdmYLO7dz_OdJQ/ts
+#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="AD SPORTS ASIA 1 HD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS ASIA",AD SPORTS ASIA 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq7_HESMILDNN4-ajdrkeAnE/ts
+#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="AD SPORTS ASIA 2 HD" tvg-logo="http://tvofpalestine.live:80/images/4bLkwD6BbJ-uUyWDVKP7us9_KTTvzb9QAGsfAYG6Ms121td68LKdmMc72Ya5Tn7o-MdIyZBlxUER1xvfl90IsAJ9M5jregZQuShsHVdAanDGTGs5BI73omDfBrYJj41T.png" group-title="AD SPORTS ASIA",AD SPORTS ASIA 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_Zj_YWIMhRudhLyTdwYT7g/ts
+#EXTINF:-1 xui-id="64" tvg-id="" tvg-name="Al Fajer 1 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4QoJFMM2cwaBl0viluoq3uq7wQlJdNLhuQbpVYNfH0AL.jpg" group-title="AL FAJER TV",Al Fajer 1 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3SPxluFp4mNamEhHv8jJzw/ts
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="Al Fajer 2 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4bkDgvH-G1Q-W3SMtvhU9sgeuX7eb6ixjcvRq8keN_GC.jpg" group-title="AL FAJER TV",Al Fajer 2 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq3vAOr4a3FN-hPXaj-TEPCc/ts
+#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="Al Fajer 3 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4UpiO5Ksk6Yl2Og1FcBKB2tPQ3qH57kV5JRHRtqpL_FB.jpg" group-title="AL FAJER TV",Al Fajer 3 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_S42yVEXsWqYjtwlbmPoSA/ts
+#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="Al Fajer 4 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4ZHvpTRMfkTHDhEYaout30_q_GlJ6MKfVIldbWeUPPRy.jpg" group-title="AL FAJER TV",Al Fajer 4 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9V3JPL6cO3UFiOO50AP-gA/ts
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="Al Fajer 5 FHD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4aXDoIX7P_fC4DDJebz3cKUqMdzJUz9rvxYrbkB8NVZr.jpg" group-title="AL FAJER TV",Al Fajer 5 FHD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_03y_WyXF2jF8XlHEU1PWk/ts
+#EXTINF:-1 xui-id="69" tvg-id="" tvg-name="Al Fajer 1 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4QoJFMM2cwaBl0viluoq3uq7wQlJdNLhuQbpVYNfH0AL.jpg" group-title="AL FAJER TV",Al Fajer 1 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-GHCfIN-Cr_8szCkxhhXN8/ts
+#EXTINF:-1 xui-id="70" tvg-id="" tvg-name="Al Fajer 2 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4bkDgvH-G1Q-W3SMtvhU9sgeuX7eb6ixjcvRq8keN_GC.jpg" group-title="AL FAJER TV",Al Fajer 2 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq0Os_AvU4_CvNOIbrt6dr4A/ts
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="Al Fajer 3 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4UpiO5Ksk6Yl2Og1FcBKB2tPQ3qH57kV5JRHRtqpL_FB.jpg" group-title="AL FAJER TV",Al Fajer 3 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq9lA4OAWXBt547IpUt2b9is/ts
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="Al Fajer 4 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4ZHvpTRMfkTHDhEYaout30_q_GlJ6MKfVIldbWeUPPRy.jpg" group-title="AL FAJER TV",Al Fajer 4 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq_CF3K9QjiuOwDdc34KyaNs/ts
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="Al Fajer 5 HD" tvg-logo="http://tvofpalestine.live:80/images/dsAt8cMDBjbP3mVNdeYR4aXDoIX7P_fC4DDJebz3cKUqMdzJUz9rvxYrbkB8NVZr.jpg" group-title="AL FAJER TV",Al Fajer 5 HD
+http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq2yvWA4NkZ6-GE3qxzftmFI/ts
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="http://147.135.16.159/logos/nbatv.png" group-title="NBA LEAGUE PASS HD",NBA TV
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/554
+#EXTINF:-1 tvg-id="TNT EAST" tvg-name="NBA ON TNT" tvg-logo="http://147.135.16.159:484/images/NBA_on_TNT.png" group-title="NBA LEAGUE PASS HD",NBA ON TNT
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/565
+#EXTINF:-1 tvg-id="ESPN" tvg-name="NBA ON ESPN" tvg-logo="http://147.135.16.159:484/images/NBA_on_ESPN.png" group-title="NBA LEAGUE PASS HD",NBA ON ESPN
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/568
+#EXTINF:-1 tvg-id="1.NBA" tvg-name="NBA LP 01" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 01
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/555
+#EXTINF:-1 tvg-id="2.NBA" tvg-name="NBA LP 02" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 02
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/556
+#EXTINF:-1 tvg-id="3.NBA" tvg-name="NBA LP 03" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 03
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/557
+#EXTINF:-1 tvg-id="4.NBA" tvg-name="NBA LP 04" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 04
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/558
+#EXTINF:-1 tvg-id="5.NBA" tvg-name="NBA LP 05" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 05
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/559
+#EXTINF:-1 tvg-id="6.NBA" tvg-name="NBA LP 06" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 06
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/560
+#EXTINF:-1 tvg-id="7.NBA" tvg-name="NBA LP 07" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 07
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/561
+#EXTINF:-1 tvg-id="8.NBA" tvg-name="NBA LP 08" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 08
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/562
+#EXTINF:-1 tvg-id="9.NBA" tvg-name="NBA LP 09" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 09
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/563
+#EXTINF:-1 tvg-id="10.NBA" tvg-name="NBA LP 10" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS HD",NBA LP 10
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/564
+#EXTINF:-1 tvg-id="0.peac" tvg-name="PEACOCK 00" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 00
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4797
+#EXTINF:-1 tvg-id="1.peac" tvg-name="PEACOCK 01" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 01
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4798
+#EXTINF:-1 tvg-id="2.peac" tvg-name="PEACOCK 02" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 02
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4799
+#EXTINF:-1 tvg-id="3.peac" tvg-name="PEACOCK 03" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 03
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4800
+#EXTINF:-1 tvg-id="4.peac" tvg-name="PEACOCK 04" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 04
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4801
+#EXTINF:-1 tvg-id="5.peac" tvg-name="PEACOCK 05 " tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 05 
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4802
+#EXTINF:-1 tvg-id="6.peac" tvg-name="PEACOCK 06" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 06
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4803
+#EXTINF:-1 tvg-id="7.peac" tvg-name="PEACOCK 07" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 07
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4804
+#EXTINF:-1 tvg-id="8.peac" tvg-name="PEACOCK 08" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 08
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4805
+#EXTINF:-1 tvg-id="9.peac" tvg-name="PEACOCK 09" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 09
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4806
+#EXTINF:-1 tvg-id="10.peac" tvg-name="PEACOCK 10" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 10
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4807
+#EXTINF:-1 tvg-id="11.peac" tvg-name="PEACOCK 11" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 11
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4808
+#EXTINF:-1 tvg-id="12.peac" tvg-name="PEACOCK 12" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK 12
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4809
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK NBCSPORTS" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK NBCSPORTS
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4810
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK PREMIER LEAGUE" tvg-logo="http://boomboomhosting.net/logo/peacock.png" group-title="PEACOCK CHANNELS",PEACOCK PREMIER LEAGUE
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4811
+#EXTINF:-1 tvg-id="1.mls" tvg-name="MLS 01" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 01
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4851
+#EXTINF:-1 tvg-id="2.mls" tvg-name="MLS 02" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 02
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4852
+#EXTINF:-1 tvg-id="3.mls" tvg-name="MLS 03" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 03
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4853
+#EXTINF:-1 tvg-id="4.mls" tvg-name="MLS 04" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 04
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4854
+#EXTINF:-1 tvg-id="5.mls" tvg-name="MLS 05" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 05
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4855
+#EXTINF:-1 tvg-id="6.mls" tvg-name="MLS 06" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 06
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4856
+#EXTINF:-1 tvg-id="7.mls" tvg-name="MLS 07" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 07
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4857
+#EXTINF:-1 tvg-id="8.mls" tvg-name="MLS 08 " tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 08 
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4858
+#EXTINF:-1 tvg-id="9.mls" tvg-name="MLS 09" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 09
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4859
+#EXTINF:-1 tvg-id="10.mls" tvg-name="MLS 10" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 10
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4860
+#EXTINF:-1 tvg-id="11.mls" tvg-name="MLS 11" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 11
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4861
+#EXTINF:-1 tvg-id="12.mls" tvg-name="MLS 12" tvg-logo="http://boomboomhosting.net/logo$/mls.png" group-title="MLS SEASON PASS",MLS 12
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/4862
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV |" tvg-logo="http://147.135.16.159/logos/nbatv.png" group-title="NBA LEAGUE PASS SD",NBA TV |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5025
+#EXTINF:-1 tvg-id="TNT EAST" tvg-name="NBA ON TNT |" tvg-logo="http://147.135.16.159:484/images/NBA_on_TNT.png" group-title="NBA LEAGUE PASS SD",NBA ON TNT |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5014
+#EXTINF:-1 tvg-id="ESPN" tvg-name="NBA LP 12 |" tvg-logo="http://147.135.16.159:484/images/NBA_on_ESPN.png" group-title="NBA LEAGUE PASS SD",NBA LP 12 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5013
+#EXTINF:-1 tvg-id="1.NBA" tvg-name="NBA LP 01 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 01 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5024
+#EXTINF:-1 tvg-id="2.NBA" tvg-name="NBA LP 02 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 02 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5023
+#EXTINF:-1 tvg-id="3.NBA" tvg-name="NBA LP 03 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 03 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5022
+#EXTINF:-1 tvg-id="4.NBA" tvg-name="NBA LP 04 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 04 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5021
+#EXTINF:-1 tvg-id="5.NBA" tvg-name="NBA LP 05 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 05 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5020
+#EXTINF:-1 tvg-id="6.NBA" tvg-name="NBA LP 06 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 06 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5019
+#EXTINF:-1 tvg-id="7.NBA" tvg-name="NBA LP 07 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 07 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5018
+#EXTINF:-1 tvg-id="8.NBA" tvg-name="NBA LP 08 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 08 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5017
+#EXTINF:-1 tvg-id="9.NBA" tvg-name="NBA LP 09 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 09 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5016
+#EXTINF:-1 tvg-id="10.NBA" tvg-name="NBA LP 10 |" tvg-logo="http://147.135.16.159/logos/nbalp.png" group-title="NBA LEAGUE PASS SD",NBA LP 10 |
+http://bbiptv.net:8000/nba_SD/eGz8pCyAxf/5015
